@@ -1,5 +1,9 @@
 🛡️ Multi-Stage Predictive Risk Modeling
+
+
 Portfolio Project: Strategic Churn & Retention Analytics
+
+
 📌 Executive Summary
 This project develops a high-precision predictive engine to identify "At-Risk" profiles within a multi-stage lifecycle. By comparing XGBoost and Neural Network architectures, I demonstrate how incorporating incremental data stages (Engagement & Performance) significantly reduces false negatives, allowing for proactive intervention strategies.
 
